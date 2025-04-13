@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This repository contains implementations of various machine learning algorithms from scratch using Python. The goal is to build a strong foundational understanding by coding the models manually while also using built-in functions for validation and benchmarking. Each implementation will be available as a Jupyter Notebook (`.ipynb`) to include visualizations and step-by-step explanations.
+This repository contains implementations of various machine learning algorithms from scratch using Python. The goal is to build a strong foundational understanding by coding the models manually while also using built-in functions for validation and benchmarking. Each implementation will be available as a Jupyter Notebook (`.ipynb`) to include visualizations and step-by-step explanations..
 
 ---
 
